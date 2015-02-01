@@ -3,6 +3,8 @@
 This program will delete the entire line
 in file if it finds the a house bank.
 
+This is being moved to GitHub
+
 """
 
 fn = '/home/mrocha/housebankdel/banks.txt'
